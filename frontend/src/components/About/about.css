@@ -1,0 +1,21 @@
+.about{
+    margin: 100px 0px;
+}
+
+.about h3{
+    color: #C11B17;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.about p{
+    width:70%;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 30px 16%;
+}
+
+.about span{
+    font-weight: 700;
+}

@@ -1,0 +1,54 @@
+.main-form{
+    margin: 3% 18%;
+    padding: 50px;
+    box-shadow: 1px 1px 15px 10px rgba(128, 128, 128, 0.74);
+    border-radius: 20px;
+    width: 60%;
+}
+
+.main-form h3{
+    color: #C11B17;
+    width: 20%;
+    font-size: 20px;
+    background-color:white;
+    box-shadow: 1px 1px 5px #C11B17;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.main-form h1{
+    color: #C11B17;
+    font-size: 50px;
+    margin: 10px;
+}
+
+.main-form form{
+    align-items: start;
+    padding: 50px 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.main-form .input{
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.main-form .label{
+    font-size: 20px;
+    font-weight: 500;
+    width: 20%;
+}
+
+.btn{
+    background-color: #C11B17;
+    color: white;
+    margin-top: 20px;
+}
+
+p{
+    margin: 20px;
+}

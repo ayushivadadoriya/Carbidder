@@ -1,0 +1,45 @@
+.cart-conatiner{
+    display: flex;
+    width: 80%;
+    border: 1px solid black;
+    box-shadow: 0px 0px 20px 1px rgb(66, 65, 65);
+    margin: 5% 10%;
+    border-radius: 20px;
+    padding: 0;
+   
+}
+button:hover{
+    transform: scale(1.01)
+}
+.image{
+    width: 50%;
+}
+.image img{
+    width: 100%;
+    border-radius: 20px 0px 0px 20px;
+}
+.description{
+    background-color: white;
+    color: #C11B17;
+    width: 50%;
+    padding: 10% 0% 10% 0%;
+    border-radius: 0px 20px 20px 0px;
+    /* transition: bakgroung-color 10s,color 0s; */
+}
+.name{
+    font-size: 60px;
+    font-weight: 600;
+}
+.model-name{
+    font-size: 40px;
+}
+.description:hover{
+    background-color: #C11B17;
+    color: white;
+}
+.fuel{
+    font-size: 20px;
+}
+.color{
+    font-size: 20px;
+}

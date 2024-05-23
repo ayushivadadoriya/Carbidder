@@ -1,0 +1,47 @@
+.container-car{
+    display: flex;
+    width: 90%;
+    margin: 5%;
+}
+.car-image{
+    width: 100%;
+}
+.car-image img{
+    width: 100%;
+}
+.cardetails{
+    width: 100%;
+    background-color:white;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px 0px 0px 20px;
+}
+.company-header{
+    color:#C11B17;
+    font-size: 80px;
+    font-weight: 800;
+    margin: 20px;
+}
+.company-header .span1{
+    color:#C11B17;
+    font-size: 50px;
+    font-weight: 800;
+}
+.car_componant{
+    margin:10px 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+.car_componant .span2{
+    color: #C11B17;
+    font-size: 20px;
+    font-weight: 400;
+}
+.bid_button{
+    color: white;
+    background-color: #C11B17;
+    margin: 30px 200px;
+    padding: 10px 30px;
+    font-size: 30px;
+}
